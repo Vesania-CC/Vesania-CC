@@ -27,10 +27,15 @@
 
 <!--Intro start-->
 - 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
+
 -  🎓 Actualmente estoy estudiando   Computación Científica en la Facultad de Ciencias Matemáticas.
+
 - 🌱 Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura de Nube.
+
 - ✍️ En mi tiempo libre, me dedico al diseño gráfico y a la redacción de blogs como pasatiempos y actividades secundarias.
+
 - 💬 No dudes en comunicarte conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante.
+
 - ✉️ ¡Puedes enviarme un correo electrónico a **rguzu1414@gmail**.com ! Intentaré responder tan pronto como pueda.
 
 <!--Intro end-->
