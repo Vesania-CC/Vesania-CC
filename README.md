@@ -36,7 +36,7 @@
 
 - 💬 No dudes en comunicarte conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante.
 
-- ✉️ ¡Puedes enviarme un correo electrónico a **rguzu1414@gmail**.com ! Intentaré responder tan pronto como pueda.
+
 
 <!--Intro end-->
 
